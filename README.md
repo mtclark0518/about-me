@@ -3,6 +3,8 @@
 ## Before GA:
 
 ## Outcomes support I need:
+### interview prep
+### general support
 
 ## Day 1 Goals:
 
